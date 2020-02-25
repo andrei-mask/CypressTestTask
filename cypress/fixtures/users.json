@@ -1,0 +1,14 @@
+[
+  {
+  "user": "validUser",
+  "name": "Андрей",
+  "surname": "Московченко",
+  "email": "andreyam1975@gmail.com",
+  "password": "Vk_2020"
+  },
+  {
+  "user": "invalidUser",
+  "email": "invalid@email.com",
+  "password": "samplepass"
+  }
+]
