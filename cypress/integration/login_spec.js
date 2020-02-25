@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('Login with valid credentials', () => {
+describe.skip('Login with valid credentials', () => {
 
   var profileName = 'Андрей'
 
