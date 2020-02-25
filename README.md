@@ -22,3 +22,5 @@ run tests using docker compose with Chrome browser
 ```sh
 $ docker-compose run e2e-chrome
 ```
+The tests in this example run against [vk.com](vk.com)
+
