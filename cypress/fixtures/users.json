@@ -1,10 +1,8 @@
 [
   {
   "user": "validUser",
-  "name": "Андрей",
-  "surname": "Московченко",
-  "email": "andreyam1975@gmail.com",
-  "password": "Vk_2020"
+  "username": "Medinsky",
+  "password": "101010"
   },
   {
   "user": "invalidUser",
