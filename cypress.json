@@ -1,4 +1,8 @@
 {
-  "baseUrl": "https://vk.com",
-  "fixturesFolder": "cypress/fixtures"
+  "baseUrl": "http://localhost:4200/",
+  "integrationFolder": "cypress/integration",
+  "testFiles": "**/*_spec.js",
+  "fixturesFolder": "cypress/fixtures",
+  "chromeWebSecurity": false,
+  "requestTimeout": 10000
 }
