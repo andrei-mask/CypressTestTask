@@ -7,8 +7,8 @@ Cypress.Commands.add('login', () => {
     cy.fixture('users.json').as('users')
 
     cy.get('@users').then((users) => {
-      // get the valid user
-      const testUser = users[0]
+      // get the admin user
+      const testUser = users[2]
       testUsername = testUser.username
       testPassword = testUser.password
 
