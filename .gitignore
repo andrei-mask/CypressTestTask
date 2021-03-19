@@ -3,3 +3,4 @@ videos/
 screenshots/
 node_modules/
 docker-compose.yml
+users.json
